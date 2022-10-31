@@ -1,0 +1,54 @@
+Mphys workshop: Aerostructural workshop problem discussion
+
+- Proposal for future cases/problems that might be considered in future years
+- Goal is to coalesce around cases; get more cases out in the open
+- Gets people to put more information about what they are working on
+
+Justin: goal is broader participation; 3 classes of problem: easy medium and hard; easy year 1, medium year 2, hard year 3, etc.\
+  - Year 3 could be bring your own problem, or you could have a BYOP option each year
+
+Anil: show/compare gradient accuracy, optimimality of metrics, etc.
+
+Jamie Akkala: need wing and fuselage combined
+  - ESAVE model?
+  - Need accurate trim calculations, control surface modeling (future)
+
+Tim: Reach out to industry to see what needs this could fill; get industry active as reviewers
+
+Jamie: run optimization in a way that minimizes sensitivity of flutter wrt mass changes so that conceptual design is more usable as the design matures
+  - Pose objective metrics in a way to work with manufacturing better
+
+Justin: need more feedback from industry about why academic problems aren’t useful for them (more load cases, etc.)
+
+Brett: maybe year 1 should be more of a special session than a workshop; invited talks, suggest ideas
+  - AEPW: has required cases and then optional more challenging cases
+
+Kevin: after proposals come in year 1, down select next years so that you have more overlap in results to compare, validate, etc. (don’t move forward with all ideas)
+  - Make agreed upon problem statement
+  - Use RFP approach to describe future cases that people want to work on
+
+Jamie: split up aero optimization and structural optimization in year 1
+
+Tim: open this up to other coupled optimization, aeroacoustic, Aeropropulsive, etc.; maybe stick with aerostructural first year
+
+Justin: good test problem is a sail plane
+  - Focus needs to be on MDO + high-fidelity optimization
+  - Steady vs. unsteady: focus on steady for first workshop
+
+Agreement on: optimization tolerances, problem definitions, gradient accuracy, other standards
+  - POEM process - pull request to submit proposals
+  - Put these notes on GitHub
+
+Maintain interest: make everyone solve the same problem (table stakes) 
+  - you have to tackle that problem to come in, and then you can come and talk about whatever you want; layout 3ish-year list; cycle disciplines every year
+
+  - Trim, wing-body configurations are two areas that could be tackled early on
+  - Make them low-speed enough to make these simple enough for people to solve somewhat easily
+
+Counterpoint: if we change disciplines every year, it doesn’t give people time to apply lessons learned, so keep some common aspect every year
+
+Accumulate cases: every year, add an aspect, discipline, etc.
+
+Next steps, timeline:
+Targeting SciTech 2024, maybe Aviation 2024
+By Dec need to have a concrete plan
